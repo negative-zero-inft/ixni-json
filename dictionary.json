@@ -64,7 +64,7 @@
         "reversals": {
             "en": [ "not me" ],
             "otherLanguages": [
-                
+                { "pl": [ "nie ja" ] }
             ]
         }
     }
