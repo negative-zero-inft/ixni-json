@@ -1,0 +1,23 @@
+[
+    {
+        "word": "durynu",
+        "translations": {
+            "en": [ "dumb", "stupid" ],
+            "pl": [ "głupie", "durne" ]
+        },
+        "explanation": {
+            "en": "blah blah blah",
+            "pl": "bla bla bla"
+        },
+        "examples": [
+
+            { "durynu to je": "this is stupid" },
+            { "durynu xyl jab je": "i'm a moron" }
+        ],
+        "origin": "the polish word durne, which means stupid",
+        "reversals": [
+            "smart",
+            "genius"
+        ]
+    }
+]
