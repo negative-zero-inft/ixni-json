@@ -67,5 +67,36 @@
                 { "pl": [ "nie ja" ] }
             ]
         }
+    },
+    {
+        "word": "blux",
+        "translations": {
+            "en": [ "red", "blush" ],
+            "otherLanguages": [
+                { "pl": [ "czerwony", "czerwone", "rumieniec" ] }
+            ]
+        },
+        "explanation": {
+            "en": "the color red as well as blushing",
+            "otherLanguages": [
+                { "pl": "kolor czerwony i rumienie się" }
+            ]
+        },
+        "examples": [
+            { "ixni": "blux to je", "en": "this is red" },
+            { "ixni": "jer blux", "en": "you're blushing" }
+        ],
+        "origin": {
+            "en": "the english word blush",
+            "otherLanguages": [
+                { "pl": "angielskie słowo blush, które znaczy rumieniec" }
+            ]
+        },
+        "reversals": {
+            "en": [  ],
+            "otherLanguages": [
+                
+            ]
+        }
     }
 ]
