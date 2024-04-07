@@ -2,15 +2,17 @@
     {
         "word": "durynu",
         "translations": {
-            "en": [ "dumb", "stupid" ],
+            "en": [ "dumb", "stupid", "stupidity" ],
             "otherLanguages": [
 
-                { "pl": [ "głupie", "durne" ] }
+                { "pl": [ "głupie", "durne", "głupota", "debilizm" ] }
             ]
         },
         "explanation": {
-            "en": "blah blah blah",
-            "otherLanguages": []
+            "en": "the lack of intelligence",
+            "otherLanguages": [
+                { "pl": "brak inteligencji" }
+            ]
         },
         "examples": [
 
@@ -18,9 +20,18 @@
             { "durynu xyl jab je": "i'm a moron" }
         ],
         "origin": "the polish word durne, which means stupid",
-        "reversals": [
-            "smart",
-            "genius"
-        ]
+        "reversals": {
+            "en": [ 
+                "smart",
+                "intelligence"
+            ],
+            "otherLanguages": [
+
+                { "pl": [
+                    "mądre",
+                    "mądrość"
+                ] }
+            ]
+        }  
     }
 ]
