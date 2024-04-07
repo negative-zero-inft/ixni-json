@@ -4,7 +4,6 @@
         "translations": {
             "en": [ "dumb", "stupid", "stupidity" ],
             "otherLanguages": [
-
                 { "pl": [ "głupie", "durne", "głupota", "debilizm" ] }
             ]
         },
@@ -16,10 +15,15 @@
         },
         "examples": [
 
-            { "durynu to je": "this is stupid" },
-            { "durynu xyl jab je": "i'm a moron" }
+            { "ixni": "durynu to je", "en": "this is stupid" },
+            { "ixni": "durynu xyl jab je", "en": "i'm a moron" }
         ],
-        "origin": "the polish word durne, which means stupid",
+        "origin": {
+            "en": "the polish word durne, which means stupid",
+            "otherLanguages": [
+                { "pl": "polskie słowo durne" }
+            ]
+        },
         "reversals": {
             "en": [ 
                 "smart",
