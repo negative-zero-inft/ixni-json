@@ -37,5 +37,35 @@
                 ] }
             ]
         }  
+    },
+    {
+        "word": "jab",
+        "translations": {
+            "en": [ "me", "I", "myself" ],
+            "otherLanguages": [
+                { "pl": [ "ja", "mnie", "mną"] }
+            ]
+        },
+        "explanation": {
+            "en": "first person pronoun",
+            "otherLanguages": [
+                { "pl": "zaimek pierwszej osoby" }
+            ]
+        },
+        "examples": [
+            { "ixni": "wy tu jab je", "en": "i'm here" }
+        ],
+        "origin": {
+            "en": "the polish word ja, which means \"me\"",
+            "otherLanguages": [
+                { "pl": "polskie słowo ja" }
+            ]
+        },
+        "reversals": {
+            "en": [ "not me" ],
+            "otherLanguages": [
+                
+            ]
+        }
     }
 ]
