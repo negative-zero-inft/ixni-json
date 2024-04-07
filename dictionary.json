@@ -3,11 +3,14 @@
         "word": "durynu",
         "translations": {
             "en": [ "dumb", "stupid" ],
-            "pl": [ "głupie", "durne" ]
+            "otherLanguages": [
+
+                { "pl": [ "głupie", "durne" ] }
+            ]
         },
         "explanation": {
             "en": "blah blah blah",
-            "pl": "bla bla bla"
+            "otherLanguages": []
         },
         "examples": [
 
