@@ -308,5 +308,37 @@
             "en": [ ],
             "otherLanguages": [ ]
         }
+    },
+    {
+        "word": "nehr",
+        "translations": {
+            "en": [ "no", "false", "lie", "to lie" ],
+            "otherLanguages": [
+                { "pl": [ "nie", "fałsz", "kłamstwo", "kłamać" ] }
+            ]
+        },
+        "explanation": {
+            "en": "general negative expression. also, putting it at the beginning of a sentence makes it false",
+            "otherLanguages": [
+                { "pl": "ogólne negatywne wyrażenie. położenie tego słowa na początku zdania neguje je" }
+            ]
+        },
+        "examples": [
+            { "ixni": "jer nehr", "en": "you're lying" },
+            { "ixni": "nehr to je", "en": "this doesn't exist" },
+            { "ixni": "nehrei jer wyfoma", "en": "you're telling lies" }
+        ],
+        "origin": {
+            "en": "originally, it was \"nahr\", but it was changed to \"nehr\" during the alphabet change. later, it became an exception to the ne- rule when it was added",
+            "otherLanguages": [
+                { "pl": "oryginalnie, to słowo było \"nahr\". zmieniono je do \"nehr\" podczas zmiany alfabetu. później, stało się to słowo wyjątkiem do zasady -ne" }
+            ]
+        },
+        "reversals": {
+            "en": [ "exception to the rule" ],
+            "otherLanguages": [
+                { "pl": [ "wyjątek" ] }
+            ]
+        }
     }
 ]
