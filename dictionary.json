@@ -280,5 +280,33 @@
                 { "pl": [ "stare" ] }
             ]
         }
+    },
+    {
+        "word": "tefaxyn",
+        "translations": {
+            "en": [ "phone", "telephone", "smartphone" ],
+            "otherLanguages": [
+                { "pl": [ "telefon", "smartfon" ] }
+            ]
+        },
+        "explanation": {
+            "en": "mobile communications device",
+            "otherLanguages": [
+                { "pl": "mobilne urządzenie do komunikacji" }
+            ]
+        },
+        "examples": [
+            { "ixni": "mix jer jab mix tefaxyn xat", "en": "i'm talking to you using my phone" }
+        ],
+        "origin": {
+            "en": "NRD's funny way to say \"telefon\"",
+            "otherLanguages": [
+                { "pl": "śmieszny sposób NRD żeby powiedzieć \"telefon\""}
+            ]
+        },
+        "reversals": {
+            "en": [ ],
+            "otherLanguages": [ ]
+        }
     }
 ]
