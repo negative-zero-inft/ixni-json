@@ -340,5 +340,35 @@
                 { "pl": [ "wyjątek" ] }
             ]
         }
+    },
+    {
+        "w": "zynax",
+        "t": {
+            "en": [ "to know", "knowledge", "to understand" ],
+            "ol": [
+                { "pl": [ "znać", "znajomość", "wiedza", "rozumieć" ] }
+            ]
+        },
+        "d": {
+            "en": "knowledge",
+            "ol": [
+                { "pl": "wiedza" }
+            ]
+        },
+        "e": [
+            { "ixni": "jer jab zynax", "en": "i know you" }
+        ],
+        "o": {
+            "en": "the polish word \"znasz\", which means \"you know\"",
+            "ol": [
+                { "pl": "polskie słowo znasz"}
+            ]
+        },
+        "n": {
+            "en": [ "the lack of knowledge", "to not know" ],
+            "ol": [
+                { "pl": [ "niewiedza", "nie znać" ] }
+            ]
+        }
     }
 ]
