@@ -219,5 +219,36 @@
                 { "pl": [ "nudne", "nieśmieszne", "nudzić się", "być poważnym" ] }
             ]
         }
+    },
+    {
+        "word": "doromi",
+        "translations": {
+            "en": [ "to create", "creation" ],
+            "otherLanguages": [
+                { "pl": [ "tworzyć", "twór" ] }
+            ]
+        },
+        "explanation": {
+            "en": "anything related to creating",
+            "otherLanguages": [
+                { "pl": "wszystko związane z tworzeniem" }
+            ]
+        },
+        "examples": [
+            { "ixni": "to jab doromioj", "en": "i made this" },
+            { "ixni": "gros doromi to je", "en": "this is a big creation"}
+        ],
+        "origin": {
+            "en": "originally, it was \"ztwara\", but it was changed to \"doromi\" after the change of alphabets",
+            "otherLanguages": [
+                { "pl": "oryginalnie, \"doromi\" było \"ztwara\", ale zmieniono to ze zmianą alfabetu"}
+            ]
+        },
+        "reversals": {
+            "en": [ "to destroy", "to break", "destruction", "ruin" ],
+            "otherLanguages": [
+                { "pl": [ "niszczyć", "zniszczenie", "destrukcja", "ruina" ] }
+            ]
+        }
     }
 ]
