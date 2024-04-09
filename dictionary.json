@@ -93,10 +93,37 @@
             ]
         },
         "reversals": {
-            "en": [  ],
+            "en": [ ],
+            "otherLanguages": []
+        }
+    },
+    {
+        "word": "xpeil",
+        "translations": {
+            "en": [ "game", "to play a game" ],
             "otherLanguages": [
-                
+                { "pl": [ "gra", "grać" ] }
             ]
+        },
+        "explanation": {
+            "en": "a game",
+            "otherLanguages": [
+                { "pl": "gra" }
+            ]
+        },
+        "examples": [
+            { "ixni": "zafar to xpeil je", "en": "this game is fun" },
+            { "ixni": "to jab xpeil jab hexy", "en": "i want to play this" }
+        ],
+        "origin": {
+            "en": "the german word spiel meaning game",
+            "otherLanguages": [
+                { "pl": "niemieckie słowo spiel, które znaczy gra" }
+            ]
+        },
+        "reversals": {
+            "en": [ ],
+            "otherLanguages": []
         }
     }
 ]
