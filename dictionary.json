@@ -125,5 +125,35 @@
             "en": [ ],
             "otherLanguages": []
         }
+    },
+    {
+        "word": "jer",
+        "translations": {
+            "en": [ "you" ],
+            "otherLanguages": [
+                { "pl": [ "ty", "ciebie" ] }
+            ]
+        },
+        "explanation": {
+            "en": "the second person pronoun",
+            "otherLanguages": [
+                { "pl": "zaimek drugiej osoby" }
+            ]
+        },
+        "examples": [
+            { "ixni": "jer jab zejex", "en": "i see you" }
+        ],
+        "origin": {
+            "en": "NRD created this word",
+            "otherLanguages": [
+                { "pl": "NRD stworzył te słowo" }
+            ]
+        },
+        "reversals": {
+            "en": [ "not you" ],
+            "otherLanguages": [
+                { "pl": [ "nie ty" ] }
+            ]
+        }
     }
 ]
