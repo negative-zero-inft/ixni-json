@@ -3,6 +3,6 @@ const dMap = new Map()
 
 dict.forEach(w =>{
 
-    dMap.set(w.word, w.translations.en)
+    dMap.set(w.w, w.t.en)
 })
 console.log(dMap)
