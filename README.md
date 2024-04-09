@@ -4,31 +4,31 @@ the ixni dictionary, jsonified for your api pleasure
 words are built like this:
 ```json
 {
-    "word": "ixni word",
-    "translations": {
+    "w": "ixni word",
+    "t": {
         "en": [ "english translations of the word" ],
-        "otherLanguages": [ 
+        "ol": [ 
             { "language": [ "translations in a non-english language" ] } 
         ]
     },
-    "explanation": {
+    "d": {
         "en": "the explanation in english",
-        "otherLanguages": [
+        "ol": [
             { "language": "explanation in a non-english language" }
         ]
     },
-    "examples": [
+    "e": [
         { "ixni": "example in ixni", "en": "english translation of the example" }
     ],
-    "origin": {
+    "o": {
         "en": "the origin story of the word, in english",
-        "otherLanguages": [
+        "ol": [
             { "language": "the origin story of the word in a non-english language" }
         ]
     },
-    "reversals": {
+    "n": {
         "en": [ "examples of a word being reversed with the use of the ne- prefix in english" ],
-        "otherLanguages": [
+        "ol": [
             { "language": [ "examples of a word being reversed with the use of the ne- prefix in a non-english language" ] }
         ]
     }
