@@ -18,7 +18,7 @@
 	// TODO
 	"word": {
 		"scope": "json",
-		"prefix": "word",
+		"prefix": "newWord",
 		"body": [
 			"{"
 			"	\"word\": \"$1\","

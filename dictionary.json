@@ -186,5 +186,38 @@
                 { "pl": [ "nie on", "nie ona", "nie ono", "nie to" ] }
             ]
         }
+    },
+    {
+        "word": "zafar",
+        "translations": {
+            "en": [ "fun", "funny", "entertainment", "entertaining", "to play", "to have fun", "joke", "to joke" ],
+            "otherLanguages": [
+                { "pl": [ "zabawa", "zabawne", "śmieszne", "rozrywka", "bawić się", "żart", "żartować" ] }
+            ]
+        },
+        "explanation": {
+            "en": "anything related to fun or entertainment",
+            "otherLanguages": [
+                { "pl": "wszystko związane z zabawą lub rozrywką" }
+            ]
+        },
+        "examples": [
+            { "ixni": "zafar to je", "en": "this is fun" },
+            { "ixni": "jab zafaroj", "en": "i was joking" },
+            { "ixni": "tura zafar to zafar je", "en": "this joke is very funny" },
+            { "ixni": "jabei zafaroh", "en": "we're having fun" }
+        ],
+        "origin": {
+            "en": "NRD created this word",
+            "otherLanguages": [
+                { "pl": "NRD stworzył te słowo" }
+            ]
+        },
+        "reversals": {
+            "en": [ "boring", "unfunny", "to be bored", "to be serious" ],
+            "otherLanguages": [
+                { "pl": [ "nudne", "nieśmieszne", "nudzić się", "być poważnym" ] }
+            ]
+        }
     }
 ]
