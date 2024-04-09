@@ -1,35 +1,35 @@
 [
     {
-        "word": "durynu",
-        "translations": {
+        "w": "durynu",
+        "t": {
             "en": [ "dumb", "stupid", "stupidity" ],
-            "otherLanguages": [
+            "ol": [
                 { "pl": [ "głupie", "durne", "głupota", "debilizm" ] }
             ]
         },
-        "explanation": {
+        "d": {
             "en": "the lack of intelligence",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "brak inteligencji" }
             ]
         },
-        "examples": [
+        "e": [
 
             { "ixni": "durynu to je", "en": "this is stupid" },
             { "ixni": "durynu xyl jab je", "en": "i'm a moron" }
         ],
-        "origin": {
+        "o": {
             "en": "the polish word durne, which means stupid",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "polskie słowo durne" }
             ]
         },
-        "reversals": {
+        "n": {
             "en": [ 
                 "smart",
                 "intelligence"
             ],
-            "otherLanguages": [
+            "ol": [
 
                 { "pl": [
                     "mądre",
@@ -39,304 +39,304 @@
         }  
     },
     {
-        "word": "jab",
-        "translations": {
+        "w": "jab",
+        "t": {
             "en": [ "me", "I", "myself" ],
-            "otherLanguages": [
+            "ol": [
                 { "pl": [ "ja", "mnie", "mną"] }
             ]
         },
-        "explanation": {
+        "d": {
             "en": "first person pronoun",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "zaimek pierwszej osoby" }
             ]
         },
-        "examples": [
+        "e": [
             { "ixni": "wy tu jab je", "en": "i'm here" }
         ],
-        "origin": {
+        "o": {
             "en": "the polish word ja, which means \"me\"",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "polskie słowo ja" }
             ]
         },
-        "reversals": {
+        "n": {
             "en": [ "not me" ],
-            "otherLanguages": [
+            "ol": [
                 { "pl": [ "nie ja" ] }
             ]
         }
     },
     {
-        "word": "blux",
-        "translations": {
+        "w": "blux",
+        "t": {
             "en": [ "red", "blush" ],
-            "otherLanguages": [
+            "ol": [
                 { "pl": [ "czerwony", "czerwone", "rumieniec" ] }
             ]
         },
-        "explanation": {
+        "d": {
             "en": "the color red as well as blushing",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "kolor czerwony i rumienie się" }
             ]
         },
-        "examples": [
+        "e": [
             { "ixni": "blux to je", "en": "this is red" },
             { "ixni": "jer blux", "en": "you're blushing" }
         ],
-        "origin": {
+        "o": {
             "en": "the english word blush",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "angielskie słowo blush, które znaczy rumieniec" }
             ]
         },
-        "reversals": {
+        "n": {
             "en": [ ],
-            "otherLanguages": []
+            "ol": []
         }
     },
     {
-        "word": "xpeil",
-        "translations": {
+        "w": "xpeil",
+        "t": {
             "en": [ "game", "to play a game" ],
-            "otherLanguages": [
+            "ol": [
                 { "pl": [ "gra", "grać" ] }
             ]
         },
-        "explanation": {
+        "d": {
             "en": "a game",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "gra" }
             ]
         },
-        "examples": [
+        "e": [
             { "ixni": "zafar to xpeil je", "en": "this game is fun" },
             { "ixni": "to jab xpeil jab hexy", "en": "i want to play this" }
         ],
-        "origin": {
+        "o": {
             "en": "the german word spiel meaning game",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "niemieckie słowo spiel, które znaczy gra" }
             ]
         },
-        "reversals": {
+        "n": {
             "en": [ ],
-            "otherLanguages": []
+            "ol": []
         }
     },
     {
-        "word": "jer",
-        "translations": {
+        "w": "jer",
+        "t": {
             "en": [ "you" ],
-            "otherLanguages": [
+            "ol": [
                 { "pl": [ "ty", "ciebie" ] }
             ]
         },
-        "explanation": {
+        "d": {
             "en": "the second person pronoun",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "zaimek drugiej osoby" }
             ]
         },
-        "examples": [
+        "e": [
             { "ixni": "jer jab zejex", "en": "i see you" }
         ],
-        "origin": {
+        "o": {
             "en": "NRD created this word",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "NRD stworzył te słowo" }
             ]
         },
-        "reversals": {
+        "n": {
             "en": [ "not you" ],
-            "otherLanguages": [
+            "ol": [
                 { "pl": [ "nie ty" ] }
             ]
         }
     },
     {
-        "word": "jon",
-        "translations": {
+        "w": "jon",
+        "t": {
             "en": [ "he", "she", "it", "they" ],
-            "otherLanguages": [
+            "ol": [
                 { "pl": [ "on", "ona", "ono", "to" ] }
             ]
         },
-        "explanation": {
+        "d": {
             "en": "the third person pronoun",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "zaimek trzeciej osoby" }
             ]
         },
-        "examples": [
+        "e": [
             { "ixni": "xtoka jon je?", "en": "who are they?" },
             { "ixni": "jon jab zynax", "en": "i know him" }
         ],
-        "origin": {
+        "o": {
             "en": "the polish word on, meaning he",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "polskie słowo on" }
             ]
         },
-        "reversals": {
+        "n": {
             "en": [ "not him", "not her", "not them", "not it" ],
-            "otherLanguages": [
+            "ol": [
                 { "pl": [ "nie on", "nie ona", "nie ono", "nie to" ] }
             ]
         }
     },
     {
-        "word": "zafar",
-        "translations": {
+        "w": "zafar",
+        "t": {
             "en": [ "fun", "funny", "entertainment", "entertaining", "to play", "to have fun", "joke", "to joke" ],
-            "otherLanguages": [
+            "ol": [
                 { "pl": [ "zabawa", "zabawne", "śmieszne", "rozrywka", "bawić się", "żart", "żartować" ] }
             ]
         },
-        "explanation": {
+        "d": {
             "en": "anything related to fun or entertainment",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "wszystko związane z zabawą lub rozrywką" }
             ]
         },
-        "examples": [
+        "e": [
             { "ixni": "zafar to je", "en": "this is fun" },
             { "ixni": "jab zafaroj", "en": "i was joking" },
             { "ixni": "tura zafar to zafar je", "en": "this joke is very funny" },
             { "ixni": "jabei zafaroh", "en": "we're having fun" }
         ],
-        "origin": {
+        "o": {
             "en": "NRD created this word",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "NRD stworzył te słowo" }
             ]
         },
-        "reversals": {
+        "n": {
             "en": [ "boring", "unfunny", "to be bored", "to be serious" ],
-            "otherLanguages": [
+            "ol": [
                 { "pl": [ "nudne", "nieśmieszne", "nudzić się", "być poważnym" ] }
             ]
         }
     },
     {
-        "word": "doromi",
-        "translations": {
+        "w": "doromi",
+        "t": {
             "en": [ "to create", "creation" ],
-            "otherLanguages": [
+            "ol": [
                 { "pl": [ "tworzyć", "twór" ] }
             ]
         },
-        "explanation": {
+        "d": {
             "en": "anything related to creating",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "wszystko związane z tworzeniem" }
             ]
         },
-        "examples": [
+        "e": [
             { "ixni": "to jab doromioj", "en": "i made this" },
             { "ixni": "gros doromi to je", "en": "this is a big creation"}
         ],
-        "origin": {
+        "o": {
             "en": "originally, it was \"ztwara\", but it was changed to \"doromi\" after the change of alphabets",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "oryginalnie, \"doromi\" było \"ztwara\", ale zmieniono to ze zmianą alfabetu"}
             ]
         },
-        "reversals": {
+        "n": {
             "en": [ "to destroy", "to break", "destruction", "ruin" ],
-            "otherLanguages": [
+            "ol": [
                 { "pl": [ "niszczyć", "zniszczenie", "destrukcja", "ruina" ] }
             ]
         }
     },
     {
-        "word": "neu",
-        "translations": {
+        "w": "neu",
+        "t": {
             "en": [ "new", "fresh" ],
-            "otherLanguages": [
+            "ol": [
                 { "pl": [ "nowe", "świerze" ] }
             ]
         },
-        "explanation": {
+        "d": {
             "en": "something that has just been created",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "coś co właśnie zostało stworzone" }
             ]
         },
-        "examples": [
+        "e": [
             { "ixni": "neu to tefaxyn je", "en": "this phone is new" }
         ],
-        "origin": {
+        "o": {
             "en": "the german word neu meaning new",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "niemieckie słowo neu, które znaczy nowe" }
             ]
         },
-        "reversals": {
+        "n": {
             "en": [ "old", "vintage" ],
-            "otherLanguages": [
+            "ol": [
                 { "pl": [ "stare" ] }
             ]
         }
     },
     {
-        "word": "tefaxyn",
-        "translations": {
+        "w": "tefaxyn",
+        "t": {
             "en": [ "phone", "telephone", "smartphone" ],
-            "otherLanguages": [
+            "ol": [
                 { "pl": [ "telefon", "smartfon" ] }
             ]
         },
-        "explanation": {
+        "d": {
             "en": "mobile communications device",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "mobilne urządzenie do komunikacji" }
             ]
         },
-        "examples": [
+        "e": [
             { "ixni": "mix jer jab mix tefaxyn xat", "en": "i'm talking to you using my phone" }
         ],
-        "origin": {
+        "o": {
             "en": "NRD's funny way to say \"telefon\"",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "śmieszny sposób NRD żeby powiedzieć \"telefon\""}
             ]
         },
-        "reversals": {
+        "n": {
             "en": [ ],
-            "otherLanguages": [ ]
+            "ol": [ ]
         }
     },
     {
-        "word": "nehr",
-        "translations": {
+        "w": "nehr",
+        "t": {
             "en": [ "no", "false", "lie", "to lie" ],
-            "otherLanguages": [
+            "ol": [
                 { "pl": [ "nie", "fałsz", "kłamstwo", "kłamać" ] }
             ]
         },
-        "explanation": {
+        "d": {
             "en": "general negative expression. also, putting it at the beginning of a sentence makes it false",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "ogólne negatywne wyrażenie. położenie tego słowa na początku zdania neguje je" }
             ]
         },
-        "examples": [
+        "e": [
             { "ixni": "jer nehr", "en": "you're lying" },
             { "ixni": "nehr to je", "en": "this doesn't exist" },
             { "ixni": "nehrei jer wyfoma", "en": "you're telling lies" }
         ],
-        "origin": {
+        "o": {
             "en": "originally, it was \"nahr\", but it was changed to \"nehr\" during the alphabet change. later, it became an exception to the ne- rule when it was added",
-            "otherLanguages": [
+            "ol": [
                 { "pl": "oryginalnie, to słowo było \"nahr\". zmieniono je do \"nehr\" podczas zmiany alfabetu. później, stało się to słowo wyjątkiem do zasady -ne" }
             ]
         },
-        "reversals": {
+        "n": {
             "en": [ "exception to the rule" ],
-            "otherLanguages": [
+            "ol": [
                 { "pl": [ "wyjątek" ] }
             ]
         }
