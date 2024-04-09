@@ -155,5 +155,36 @@
                 { "pl": [ "nie ty" ] }
             ]
         }
+    },
+    {
+        "word": "jon",
+        "translations": {
+            "en": [ "he", "she", "it", "they" ],
+            "otherLanguages": [
+                { "pl": [ "on", "ona", "ono", "to" ] }
+            ]
+        },
+        "explanation": {
+            "en": "the third person pronoun",
+            "otherLanguages": [
+                { "pl": "zaimek trzeciej osoby" }
+            ]
+        },
+        "examples": [
+            { "ixni": "xtoka jon je?", "en": "who are they?" },
+            { "ixni": "jon jab zynax", "en": "i know him" }
+        ],
+        "origin": {
+            "en": "the polish word on, meaning he",
+            "otherLanguages": [
+                { "pl": "polskie słowo on" }
+            ]
+        },
+        "reversals": {
+            "en": [ "not him", "not her", "not them", "not it" ],
+            "otherLanguages": [
+                { "pl": [ "nie on", "nie ona", "nie ono", "nie to" ] }
+            ]
+        }
     }
 ]
