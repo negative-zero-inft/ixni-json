@@ -250,5 +250,35 @@
                 { "pl": [ "niszczyć", "zniszczenie", "destrukcja", "ruina" ] }
             ]
         }
+    },
+    {
+        "word": "neu",
+        "translations": {
+            "en": [ "new", "fresh" ],
+            "otherLanguages": [
+                { "pl": [ "nowe", "świerze" ] }
+            ]
+        },
+        "explanation": {
+            "en": "something that has just been created",
+            "otherLanguages": [
+                { "pl": "coś co właśnie zostało stworzone" }
+            ]
+        },
+        "examples": [
+            { "ixni": "neu to tefaxyn je", "en": "this phone is new" }
+        ],
+        "origin": {
+            "en": "the german word neu meaning new",
+            "otherLanguages": [
+                { "pl": "niemieckie słowo neu, które znaczy nowe" }
+            ]
+        },
+        "reversals": {
+            "en": [ "old", "vintage" ],
+            "otherLanguages": [
+                { "pl": [ "stare" ] }
+            ]
+        }
     }
 ]
